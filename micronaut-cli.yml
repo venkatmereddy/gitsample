@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: qspiders.gitPractice
+---
+testFramework: junit
+sourceLanguage: java
